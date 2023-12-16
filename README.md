@@ -58,7 +58,7 @@ Framework Overview
 </font>
 </div>
 
-![Image](Images/Opensource.png)  
+![Image](Images/tutu.png)  
 
 <details open>
 <summary>Major features</summary>
@@ -66,38 +66,26 @@ Framework Overview
 
 - **Modular Design**
   
-  We decompose the causal framework of visual-linguistic tasks into different components and one can easily construct a customized causal-reasoning framework by combining different modules.
+  Your methods.
 
 - **Support of multiple tasks**
   
-  The toolbox directly supports multiple visual-linguistic reasoning tasks such as **VQA**, **Image/Video Caption**, **Medical Report Generation**, **Model Generalization and Robustness** and so on.
+  Your settings.
 
 - **State of the art**
   
-  The toolbox stems from the codebase developed by the HCPLab team, who dedicated to solving a variety of complex logic tasks through causal reasoning, and we keep pushing it forward.
+  Your experiment results.
 
 </details>
 
 
-❗ **Note:** The framework is actively being developed. Feedbacks (issues, suggestions, etc.) are highly encouraged.
+❗ **Note:** 
 
 ## <a id="whats-new">🚀 What's New <a href="#table-of-contents">🔝</a> </a>
 
 
 ### 🔥 **2023.12.12**.
-- The paper of [**CaCo-CoT**](projects/CaCo-COT/readme.md) for Faithful Reasoning task in LLMs is [opening](https://arxiv.org/pdf/2308.11914.pdf)!
-  
-### 🔥 **2023.8.19**.
-- **v0.0.2** was released in 8/19/2023
-- Support [**CaCo-CoT**](projects/CaCo-COT/readme.md) for Faithful Reasoning task in LLMs
-
-### 🔥 **2023.6.29**.
-- **v0.0.1** was released in 6/30/2023
-- Support [**VLCI**](projects/VLCI/readme.md) for Medical Report Generation task
-- Support [**CAMDA (T-PAMI 2023)**](https://github.com/HCPLab-SYSU/CAMDA) for Causality-Aware Medical Diagnosis task
-- Support [**CMCIR (T-PAMI 2023)**](projects/CMCIR/readme.md) for Event-Level Visual Question Answering task
-- Support [**VCSR (ACM MM 2023)**](projects/VCSR/readme.md) for Video Question Answering task
-- Support [**Robust Fine-tuning (CVPR 2023)**](projects/RobustFinetuning/readme.md) for Model Generalization and Robustness
+- 10086 paper has been accepted in DREAMER2077
 
 ---
 
@@ -124,59 +112,6 @@ Framework Overview
 | **CaCo-CoT** | **86.5(+2.5)**|**73.5(3.4)**|**73.5(1.8)**|
 </div>
 
-
-### ✨  **VLCI**-Visual Causal Intervention for Radiology Report Generation
-
-<div align=center>
-
-![Image](projects/VLCI/vlci_demo.gif)
-
-</div>
-
-<div align="center">
-
-| Dataset   | B@1 | B@2  | B@3  | B@4 | Meteor | Rough-L | CIDEr |
-| --------- | --- | ---  | ---- |----- |-------| ---- | ---- |
-| IU-Xray   | 50.5 | 33.4 | 24.5 | 18.9 | 20.4  | 39.7 |  45.6  |
-| MIMIC-CXR | 40.0 | 24.5 | 16.5 | 11.9 | 15.0  | 28.0 | 19.0|
-</div>
-
-</div>
-
-<!-- div align="center">
-
-| Dataset   | What | Why  | How  | When | Where | All  |
-| --------- | ---- | ---  | ---- |----- |-------| ---- |
-| MSVD-QA   | 33.1 | 58.9 | 84.3 | 77.5 | 42.8  | 43.7 |
-| MSRVTT-QA | 32.2 | 50.2 | 82.3 | 78.4 | 38.0  | 38.9 |
-</div -->
-<br>
-
-### ✨  **CMCIR**-Cross-modal Causal Intervention for Event-level Video Question Answering
-
-<div align=center>
-
-![Image](projects/CMCIR/CMCIR_demo.gif)
-
-</div>
-<!-- div>
-
-| Dataset   | What | Why  | How  | When | Where | All  |
-| --------- | ---- | ---  | ---- |----- |-------| ---- |
-| MSVD-QA   | 33.1 | 58.9 | 84.3 | 77.5 | 42.8  | 43.7 |
-| MSRVTT-QA | 32.2 | 50.2 | 82.3 | 78.4 | 38.0  | 38.9 |
-</div -->
-
-<div align="center">
-
-|Method |Basic |Attribution |Introspection |Counterfactual |Forecasting |Reverse |All|
-|--------- |--------- |--------- |--------- |--------- |--------- |--------- |--------- |
-|VQAC| 34.02| 49.43| 34.44| 39.74| 38.55| 49.73| 36.00|
-|MASN| 33.83| 50.86| 34.23| 41.06| 41.57| 50.80| 36.03|
-|DualVGR |33.91| 50.57| 33.40| 41.39| 41.57| 50.62| 36.07|
-|HCRN |34.17| 50.29| 33.40| 40.73| 44.58| 50.09| 36.26|
-|**CMCIR**| **36.10** (+1.93)| **52.59** (+1.73)| **38.38** (+3.94)| **46.03** (+4.64)| **48.80** (+4.22)| **52.21** (+1.41)| **38.58** (+1.53)|
-</div>
 
 ## <a id="get-started">👨‍🏫 Getting Started <a href="#table-of-contents">🔝</a> </a>
 Please see Overview for the general introduction of <a hraf="">CausalVLR</a>.
