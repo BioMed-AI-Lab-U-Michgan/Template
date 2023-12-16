@@ -92,24 +92,16 @@ Framework Overview
 <div>
 <br>
 
-### ✨  **CaCo-CoT**-Towards CausalGPT: A Multi-Agent Approach for Faithful Knowledge Reasoning via Promoting Causal Consistency in LLMs
+### ✨  TRLR: This rabit likes doing research
 
 
 <div align=center>
 
-![Image](projects/CaCo-CoT/CaCo_demo.gif)
 
 </div>
 
 <div align="center">
 
-| Method   | ScienceQA| Com2sence | BoolQ     |
-|:----:    |:-----:|:-----:|:-----:|
-| GPT-3.5-turbo | 79.3 | 70.1|71.7|
-| CoT | 78.4|63.6|71.1|
-| SC-CoT | 84.0|66.0|71.4|
-| C-CoT | 82.5|68.8|70.5|
-| **CaCo-CoT** | **86.5(+2.5)**|**73.5(3.4)**|**73.5(1.8)**|
 </div>
 
 
