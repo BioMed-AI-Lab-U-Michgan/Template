@@ -58,7 +58,7 @@ Framework Overview
 </font>
 </div>
 
-![Image](Images/tutu.png)  
+![Image](Images/tutu.jpg)  
 
 <details open>
 <summary>Major features</summary>
