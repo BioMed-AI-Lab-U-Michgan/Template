@@ -26,7 +26,7 @@
 [👀Model Zoo](docs/method.md#model-zoo) |
 [🆕Update News](docs/method.md#update-news) |
 [🚀Ongoing Projects](docs/method.md#ongoing-projects) |
-[🤔Reporting Issues](https://github.com/HCPLab-SYSU/CausalVLR/issues)
+[🤔Reporting Issues](https://github.com/BioMed-AI-Lab-U-Michgan)
 
 </div>
 <!-- > [![badge](https://github.com/HCPLab-SYSU/CausalVLR/workflows/build/badge.svg)](https://github.com/HCPLab-SYSU/CausalVLR/actions) </-->
