@@ -1,17 +1,14 @@
-<!-- 
-<!-- Replace your images here! -->
+ <!-- Replace your images here! -->
 <div align="center">
   <div align="center">
       <a href="https://www.sysu-hcp.net/">
-      <img src="Images/HCP.png" width="400"/>
+      <img src="Images/u-m_logo-horizontal-hex.png" width="400"/>
       </a>
     <a href="">
-    <img src="Images/LOGO.png" width="400"/>
+    <img src="Images/u-m_logo-horizontal-hex.png" width="400"/>
     </a>
   </div>
     </div> 
--->
-
 [Summary/abstract of this projects.]
 
 
