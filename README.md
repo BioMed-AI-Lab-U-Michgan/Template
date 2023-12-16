@@ -1,3 +1,5 @@
+<!-- 
+<!-- Replace your images here! -->
 <div align="center">
   <div align="center">
       <a href="https://www.sysu-hcp.net/">
@@ -7,9 +9,10 @@
     <img src="Images/LOGO.png" width="400"/>
     </a>
   </div>
-    </div>
+    </div> 
+-->
 
-CausalVLR is a python open-source framework for causal relation discovery, causal inference that implements state-of-the-art causal learning algorithms for various visual-linguistic reasoning tasks, such as VQA, Image/Video Captioning, Model Generalization and Robustness, Medical Report Generation, etc. 
+[Summary/abstract of this projects.]
 
 
   
