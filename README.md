@@ -28,8 +28,6 @@
 [🚀Ongoing Projects](docs/method.md#ongoing-projects) |
 [🤔Reporting Issues](https://github.com/BioMed-AI-Lab-U-Michgan)
 
-</div>
-<!-- > [![badge](https://github.com/HCPLab-SYSU/CausalVLR/workflows/build/badge.svg)](https://github.com/HCPLab-SYSU/CausalVLR/actions) </-->
 
 ---
 ## <a id="table-of-contents">📄 Table of Contents </a>
@@ -43,7 +41,7 @@
 - [🖊️ Citation](#️c)
 - [🙌 Contribution](#contribution)
 - [🤝 Acknowledgement](#acknowledgement)
-- [🏗️ Projects in HCPLab](#️hcp)
+- [🏗️ Projects in BioMed-AI-Lab](#️hcp)
 
 
 ## <a id="introduction">📚 Introduction <a href="#table-of-contents">🔝</a> </a>
@@ -192,10 +190,8 @@ For detailed user guides and advanced guides, please refer to our [documentation
 
 Please refer to Installation for [installation](docs/getting_started.md) instructions in documentation.
 
-Briefly, to use CausalVLR, we could install it using [pip](https://pypi.org/project/CausalVLR/):
-
 ```
-pip install CausalVLR
+pip install XXX
 ```
 
 ### Running examples
@@ -222,53 +218,31 @@ Please feel free to let us know if you have any recommendation regarding dataset
 
 ## <a id="license"> 🎫 License <a href="#table-of-contents">🔝</a> </a>
 
-This project is released under the <a hraf="https://github.com/HCPLab-SYSU/CausalVLR/LICENSE">Apache 2.0 license</a>.
+This project is released under the <a hraf="https://github.com/BioMed-AI-Lab-U-Michgan/Template/LICENSE">Apache 2.0 license</a>.
+
 
 ## <a id="citation"> 🖊️ Citation <a href="#table-of-contents">🔝</a> </a>
 
 If you find this project useful in your research, please consider cite:   
 
 ``` 
-@misc{liu2023causalvlr,
-      title={CausalVLR: A Toolbox and Benchmark for Visual-Linguistic Causal Reasoning}, 
-      author={Yang Liu and Weixing Chen and Guanbin Li and Liang Lin},
-      year={2023},
-      eprint={2306.17462},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+
 ``` 
 
 ## <a id="contribution"> 🙌 Contribution <a href="#table-of-contents">🔝</a> </a>
 
-Please feel free to open an issue if you find anything unexpected.
-We are always targeting to make our community better!
 
 ## <a id="acknowledgement"> 🤝 Acknowledgement <a href="#table-of-contents">🔝</a> </a>
 
-CausalVLR is an open-source project and We appreciate all the contributors who implement their methods or add new features and users who give valuable feedback. We wish that the toolbox and benchmark could serve the growing research community by providing a flexible toolkit to reimplement existing methods and develop their new models.
 
 ### 🪐 The review paper here can provide some help
 
-[Causal Reasoning Meets Visual Representation Learning: A Prospective Study](https://link.springer.com/article/10.1007/s11633-022-1362-z)     
-
-Machine Intelligence Research (MIR) 2022      
-A Review paper for causal reasoning and visual representation learning       
-![Image](Images/MIR.png)    
 
 ```
-@article{
-  liu2022causal,
-  title={Causal Reasoning Meets Visual Representation Learning: A Prospective Study},
-  author={Liu, Yang and Wei, Yu-Shen and Yan, Hong and Li, Guan-Bin and Lin, Liang},
-  journal={Machine Intelligence Research},
-  pages={1--27},
-  year={2022},
-  publisher={Springer}
-  }
+
 ```
 
-## <a id="hcp">🏗️ Projects in HCPLab<a href="#table-of-contents">🔝</a> </a>
+## <a id="hcp">🏗️ Projects in BioMed-AI-Lab<a href="#table-of-contents">🔝</a> </a>
 
 - [HCP-Diffusion](https://github.com/7eu7d7/HCP-Diffusion)
   is a toolbox for Stable Diffusion models based on 🤗 Diffusers. It facilitates flexiable configurations and component support for training, in comparison with webui and sd-scripts.
